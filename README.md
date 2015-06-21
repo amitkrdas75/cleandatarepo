@@ -50,7 +50,7 @@
 * Summarize the dataset by activity and subject to calculate the average
 * Write the data to a file "tidy_data.txt"
 
-### Point to be noted: There may be a confusion regarding which specific columns of mean should be taken and which to be left out. I've personally kept all the columns having any kind of mean)
+##### Point to be noted: There may be a confusion regarding which specific columns of mean should be taken and which to be left out. I've personally kept all the columns having any kind of mean)
 
 
 
