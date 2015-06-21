@@ -1,9 +1,9 @@
 
 
-##"Getting and Cleaning Data - Readme file for Course Project"
+## Getting and Cleaning Data - Readme file for Course Project
 
-### Author: "Amit Kumar Das"
-### Date: "June 21, 2015"
+### Author: Amit Kumar Das
+### Date: June 21, 2015
 
 
 
